@@ -6,3 +6,5 @@
 :heavy_check_mark:  [Día 1](scripts/day1)
 
 :heavy_check_mark:  [Día 2](scripts/day2) 
+
+:heavy_check_mark:  [Día 3](scripts/day3) 
