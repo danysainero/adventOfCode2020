@@ -8,3 +8,5 @@
 :heavy_check_mark:  [Día 2](scripts/day2) 
 
 :heavy_check_mark:  [Día 3](scripts/day3) 
+
+:heavy_check_mark:  [Día 4](scripts/day4) 
