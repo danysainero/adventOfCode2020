@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "description": "aoc 2020",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danysainero/adventOfCode2020.git"
+  },
+  "author": "Dany Sainero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danysainero/adventOfCode2020/issues"
+  },
+  "homepage": "https://github.com/danysainero/adventOfCode2020#readme"
+}
