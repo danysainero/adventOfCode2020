@@ -43,7 +43,9 @@ function resolve(rows) {
 
 
 const test = ['FBFBBFFRLR']
+const test2 = ['BFFFBBFRRR']
 console.assert(resolve(test) === 357, 'resolve(test)');
+console.assert(resolve(test2) === 567, 'resolve(test2)');
 
 const input = parseInput(myInput);
 const output = resolve(input);
